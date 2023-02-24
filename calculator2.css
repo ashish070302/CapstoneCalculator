@@ -14,3 +14,10 @@
     box-sizing: border-box;
     
 }
+.calculator .form-group{
+	margin-bottom: 10px;
+}
+.calculator input[type=text]{
+	font-size: 1.5rem;
+	color:#ffffff;
+}
